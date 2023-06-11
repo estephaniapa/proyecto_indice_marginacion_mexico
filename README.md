@@ -33,7 +33,7 @@ El código se desarrolla en Python 3 y requiere las siguientes bibliotecas:
 Se agradecen las contribuciones a este proyecto. Si deseas realizar mejoras o añadir nuevas funcionalidades, por favor crea un pull request y se revisará con gusto.
 
 
-## Autores
+## Autora
 
 - [Estephania Pivac](https://github.com/estephaniapa) - Desarrolladora principal
 
