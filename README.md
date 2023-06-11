@@ -7,6 +7,7 @@ Este proyecto tiene como objetivo analizar el índice de marginalización en Mé
 El repositorio contiene los siguientes archivos de código:
 
 - `analisis_marginacion.ipynb`: Este archivo Jupyter Notebook contiene el código en Python utilizado para realizar el análisis de los datos y generar las visualizaciones.
+- `analisis_marginacion.html`: Este archivo html contiene la versión en html de la libreta.
 - `grafica1.png`: Este archivo contiene una visualización generada utilizando la biblioteca Plotly.
 - `grafica2.jpg`: Este archivo contiene una visualización generada utilizando la biblioteca Plotly.
 
